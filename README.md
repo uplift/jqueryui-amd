@@ -6,6 +6,7 @@ In your requirejs paths config add
 
     require({
         paths: {
+            "jquery"  : "path/to/jquery",
             "jqueryui": "path/to/jqueryui/1.8.17"
         },
        //code
