@@ -20,3 +20,7 @@ In your define call add
             'jqueryui/effects/[effect]
         ]
     )
+    
+## Licenses
+
+jQueryUI has its own license, see jQueryUI project [repo](https://github.com/jquery/jquery-ui)
