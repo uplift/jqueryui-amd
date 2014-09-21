@@ -1,5 +1,9 @@
 # jQuery UI AMD
 
+**IMPORTANT! NO LONGER REQUIRED!**
+
+**As jQuery UI now has built in AMD support, this project is no longer maintained.**
+
 ## Usage
 
 In your requirejs paths config add
